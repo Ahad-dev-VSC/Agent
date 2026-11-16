@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "notes": "- Faster responses\n- New: read files from your workspace\n- Bug fixes",
+  "url": "https://github.com/YOUR_USERNAME/agentdesk/releases/download/v1.1.0/AgentDesk-Setup-1.1.0.exe",
+  "sha256": "PASTE_SHA256_OF_THE_INSTALLER_HERE"
+}
